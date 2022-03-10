@@ -1,4 +1,4 @@
-Official code for CVPR 2022 paper [Towards Better Plasticity-Stability Trade-off in Incremental Learning: A simple
+Official code for CVPR 2022 paper [Towards Better Plasticity-Stability Trade-off in Incremental Learning: A Simple
 Linear Connector](https://arxiv.org/pdf/2110.07905.pdf). 
 
 **Usage**
