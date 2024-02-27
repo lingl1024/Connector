@@ -68,7 +68,6 @@ class SVDAgent(Agent):
                 self.log('Classifier Optimizer is reset!')
                 self.svd_lr = self.config['svd_lr']
                 self.init_model_optimizer()
-                self.model.zero_grad()
                 
             with torch.no_grad():
                 # end = time.time()
